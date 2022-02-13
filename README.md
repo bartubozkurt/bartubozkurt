@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Bartu Bozkurt</h1>
-<h3 align="center">A passionate frontend developer from İzmir</h3>
+<h3 align="center">A passionate Developer from İzmir</h3>
 
 
 <p align="center"> 
