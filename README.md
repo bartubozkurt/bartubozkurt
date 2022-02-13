@@ -27,7 +27,9 @@
 <a href="https://medium.com/bartubozkurt35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bartubozkurt35" height="30" width="40" /></a>
  </p>
 </div> 
-  
+
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />  
     
 ### Talking about Personal Stuffs:
 
@@ -41,6 +43,8 @@
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Meetups & tech events.
+
+### Languages and Tools:
 
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"></code>
