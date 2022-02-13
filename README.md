@@ -28,8 +28,7 @@
  </p>
 </div> 
   
-<p align="left">
-<br>
+    
 ### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently working with <img src="https://img.shields.io/badge/Stock and Crypto Sentiment Analysis -orange"> <img src="https://img.shields.io/badge/Javascript-blue"> <img src="https://img.shields.io/badge/Nodejs -yellow">
@@ -42,7 +41,6 @@
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Meetups & tech events.
-</p>
 
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"></code>
