@@ -24,9 +24,11 @@
   <a href="https://github.com/bartubozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bartu-bozkurt" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/bartu-bozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartu-bozkurt" height="30" width="40" /></a>
 <a href="https://instagram.com/bartubozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bartubozkurt" height="30" width="40" /></a>
-<a href="https://medium.com/bartubozkurt35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bartubozkurt35" height="30" width="40" /></a>
+<a href="https://bartubozkurt35.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bartubozkurt35" height="30" width="40" /></a>
  </p>
 </div> 
+
+	
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />  
