@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bartu Bozkurt</h1>
 <h3 align="center">A passionate frontend developer from İzmir</h3>
 
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
+</p> 
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=bartubozkurt" alt="bartubozkurt"/>       
     <a href="https://github.com/bartubozkurt?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/bartubozkurt" alt="bartubozkurt"/></a> 
@@ -98,15 +103,12 @@
   </kbd>
 </p>
 
-<p align="center">
+<p align="left">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bartubozkurt&theme=jolly&show_icons=true" alt="Bartu's Github readme stats">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=bartubozkurt&&theme=jolly&show_icons=true" alt="bartubozkurt"/>
 </p>
     
- <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
-</p> 
+ 
 <p align="left"> 
   <a href="https://github.com/bartubozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bartu-bozkurt" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/bartu-bozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartu-bozkurt" height="30" width="40" /></a>
