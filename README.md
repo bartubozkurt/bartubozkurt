@@ -35,7 +35,7 @@
     
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently working with <img src="https://img.shields.io/badge/Stock and Crypto Trading Bot -orange"> <img src="https://img.shields.io/badge/Solidity-blue"> <img src="https://img.shields.io/badge/React -yellow">
+- 🚀 &nbsp; I’m currently working with <img src="https://img.shields.io/badge/Crypto Trading Bot and Prediction -orange"> <img src="https://img.shields.io/badge/Solidity-blue"> <img src="https://img.shields.io/badge/React -yellow">
 - 📝   I regularly write articles on <a href="https://bartubozkurt35.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bartubozkurt35" height="30" width="40" /></a>
 - 🤠 &nbsp; Fun fact: **I love Friday Nights**.
 - 📫 &nbsp; How to reach me: bartubozkurt35@gmail.com.
