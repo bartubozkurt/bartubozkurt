@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I'm Bartu Bozkurt</h1>
 <h3 align="center">A passionate Developer from İzmir</h3>
 
-
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=bartubozkurt" alt="bartubozkurt"/>       
     <a href="https://github.com/bartubozkurt?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/bartubozkurt" alt="bartubozkurt"/></a> 
@@ -48,6 +47,8 @@
 
 ### Languages and Tools:
 
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
