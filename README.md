@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Build, make mistakes, learn.</h1>
 
-<!--
-**bartubozkurt/bartubozkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=bartubozkurt" alt="bartubozkurt"/>       
+    <a href="https://github.com/bartubozkurt?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/bartubozkurt" alt="bartubozkurt"/></a> 
+    <img src="https://badges.pufler.dev/years/bartubozkurt" alt="Monthy commits"/>  
+    <img src="https://badges.pufler.dev/commits/monthly/bartubozkurt" alt="bartubozkurt"/>   
+    <a href="https://github.com/bartubozkurt?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/bartubozkurt?color=4C1&logo=github"></a>
+    <a href="https://github.com/bartubozkurt/bartubozkurt" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/bartubozkurt/bartubozkurt?label=Profile%20update&style=fflat-square"></a>
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">   
+
+</p> 
+
+<p align="center">   Life is worth discovering new things and being happy. </p> 
+
+
