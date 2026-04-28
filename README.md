@@ -13,14 +13,8 @@ Building apps 🌍
 
 <table align="center">
   <tr>
-    <td align="center"><b>📅 2026</b></td>
     <td align="center"><b>🏆 All-time</b></td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bartubozkurt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage,reviews&theme=transparent" alt="GitHub stats" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bartubozkurt&hide_border=true&background=FFFFFF00&stroke=BBBBBB&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=24292F&dates=586069" alt="Streak stats" />
     </td>
   </tr>
