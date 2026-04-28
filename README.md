@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
-CS · Data · Security · Web3  
-Building apps 🌍  
-27 / 202
+CS · Data · Security · Web3 · Building apps 🌍 27 / 202
 
 **Socials:**  
 [x.com/bartubozkurt_](https://x.com/bartubozkurt_)
