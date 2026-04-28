@@ -20,9 +20,5 @@ CS | Data, Security, Web3. Building apps. 🌍 27/202.
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartubozkurt&layout=donut&hide_border=true&langs_count=8&theme=transparent&card_width=445" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bartubozkurt&bg_color=00000000&color=24292F&line=0969DA&point=24292F&hide_border=true&area=true" alt="Activity graph" />
 </p>
