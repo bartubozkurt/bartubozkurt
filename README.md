@@ -8,13 +8,11 @@ Building apps 🌍
 [x.com/bartubozkurt_](https://x.com/bartubozkurt_)
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
-
 <table align="center">
   <tr>
     <td align="center"><b>🏆 All-time</b></td>
   </tr>
+   <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bartubozkurt&hide_border=true&background=FFFFFF00&stroke=BBBBBB&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=24292F&dates=586069" alt="Streak stats" />
     </td>
   </tr>
