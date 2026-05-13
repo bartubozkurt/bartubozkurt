@@ -2,6 +2,8 @@
 
 CS · Data · Security · Web3 · Building apps 🌍 27 / 202
 
+make mistakes and learn. 🙃
+
 **Socials:**  
 [x.com/bartubozkurt_](https://x.com/bartubozkurt_)
 
